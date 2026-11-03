@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HIT-JAVA-PRIVATE.iml" filepath="$PROJECT_DIR$/.idea/HIT-JAVA-PRIVATE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi2/buoi2.iml" filepath="$PROJECT_DIR$/buoi2/buoi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi1/untitled.iml" filepath="$PROJECT_DIR$/buoi1/untitled.iml" />
     </modules>
   </component>
 </project>
